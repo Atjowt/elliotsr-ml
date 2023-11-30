@@ -1,0 +1,1 @@
+/usr/bin/clang -g -rdynamic CMakeFiles/CNN.dir/main.c.o -o CNN  -lm 

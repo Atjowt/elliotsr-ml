@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/media/atjowt/External Disk/repo/CNN/build",
+  "command": "/usr/bin/clang   -g -std=gnu99 -o CMakeFiles/CNN.dir/main.c.o -c \"/media/atjowt/External Disk/repo/CNN/main.c\"",
+  "file": "/media/atjowt/External Disk/repo/CNN/main.c"
+}
+]
